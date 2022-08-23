@@ -1,1 +1,0 @@
-## RSpec tests go here ##
