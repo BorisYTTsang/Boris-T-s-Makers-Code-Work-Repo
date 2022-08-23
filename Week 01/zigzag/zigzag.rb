@@ -2,7 +2,6 @@
 def zigzag(str)
 	index = 0
 	return str.split("").each_with_index { |x, i| x.upcase!; index if i % 2 == 0 }.join
-
 end
 
 
