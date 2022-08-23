@@ -1,4 +1,4 @@
-Test driven development of a couple of single class programs.
+Test driven development of a pair of single class programs.
 
 The first, diary_entry, is based on the reading_time app.
 It allows the user to store in a DiaryEntry class, which
